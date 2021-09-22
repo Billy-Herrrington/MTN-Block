@@ -18,7 +18,8 @@ public class MTN {
 
         int hash1 = Arrays.hashCode(list1);
         int hash2 = Arrays.hashCode(list2);
-
+        
+        //Хєширую масиви {"Mai", "Tien"}
         System.out.println("\nhash1 = " + hash1 + "\nhash2 = " + hash2);
 
     }
